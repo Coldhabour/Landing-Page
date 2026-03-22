@@ -20,7 +20,7 @@ Essa estrutura foi escolhida para mostrar um fluxo comum em projetos React:
 
 A versao publicada da landing page pode ser acessada pelo GitHub Pages:
 
-[Acessar projeto](https://seu-usuario.github.io/seu-repositorio/)
+[Acessar projeto]([https://seu-usuario.github.io/seu-repositorio/](https://coldhabour.github.io/Landing-Page/))
 
 Depois de publicar o repositorio, a pagina ficara disponivel nesse link para visualizacao online.
 
